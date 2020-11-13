@@ -6,7 +6,7 @@
   <link href="http://starking666.github.io/atom.xml" rel="self"/>
   
   <link href="http://starking666.github.io/"/>
-  <updated>2020-11-13T10:40:10.980Z</updated>
+  <updated>2020-11-13T15:02:05.863Z</updated>
   <id>http://starking666.github.io/</id>
   
   <author>
@@ -17,23 +17,27 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://starking666.github.io/2020/11/13/hello-world/"/>
-    <id>http://starking666.github.io/2020/11/13/hello-world/</id>
-    <published>2020-11-13T10:40:10.980Z</published>
-    <updated>2020-11-13T10:40:10.980Z</updated>
+    <title>Markdown语法笔记</title>
+    <link href="http://starking666.github.io/2020/11/13/markdown-yu-fa-bi-ji/"/>
+    <id>http://starking666.github.io/2020/11/13/markdown-yu-fa-bi-ji/</id>
+    <published>2020-11-13T15:25:00.000Z</published>
+    <updated>2020-11-13T15:02:05.863Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+    <summary type="html">&lt;h1 id=&quot;Markdown语法笔记&quot;&gt;&lt;a href=&quot;#Markdown语法笔记&quot; class=&quot;headerlink&quot; title=&quot;Markdown语法笔记&quot;&gt;&lt;/a&gt;Markdown语法笔记&lt;/h1&gt;&lt;h2 id=&quot;泼才&quot;&gt;&lt;a href=&quot;#泼才&quot;</summary>
         
       
     
     
     
+    <category term="Markdown" scheme="http://starking666.github.io/categories/Markdown/"/>
+    
+    
+    <category term="Markdown" scheme="http://starking666.github.io/tags/Markdown/"/>
     
   </entry>
   
