@@ -3,11 +3,11 @@
   <title>泼才</title>
   
   <subtitle>泼才の博客</subtitle>
-  <link href="http://starking666.github.io/atom.xml" rel="self"/>
+  <link href="http://starking614.github.io/atom.xml" rel="self"/>
   
-  <link href="http://starking666.github.io/"/>
-  <updated>2020-11-14T01:26:29.421Z</updated>
-  <id>http://starking666.github.io/</id>
+  <link href="http://starking614.github.io/"/>
+  <updated>2020-11-14T03:54:00.063Z</updated>
+  <id>http://starking614.github.io/</id>
   
   <author>
     <name>泼才</name>
@@ -17,9 +17,38 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>利用Github+Hexo搭建博客</title>
+    <link href="http://starking614.github.io/2020/11/14/li-yong-github-hexo-da-jian-bo-ke/"/>
+    <id>http://starking614.github.io/2020/11/14/li-yong-github-hexo-da-jian-bo-ke/</id>
+    <published>2020-11-14T03:49:55.000Z</published>
+    <updated>2020-11-14T03:54:00.063Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;利用Github-hexo搭建博客&quot;&gt;&lt;a href=&quot;#利用Github-hexo搭建博客&quot; class=&quot;headerlink&quot; title=&quot;利用Github+hexo搭建博客&quot;&gt;&lt;/a&gt;利用Github+hexo搭建博客&lt;/h1&gt;&lt;h2</summary>
+        
+      
+    
+    
+    
+    <category term="Blog" scheme="http://starking614.github.io/categories/Blog/"/>
+    
+    
+    <category term="Github" scheme="http://starking614.github.io/tags/Github/"/>
+    
+    <category term="Hexo" scheme="http://starking614.github.io/tags/Hexo/"/>
+    
+    <category term="blog" scheme="http://starking614.github.io/tags/blog/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Markdown语法笔记</title>
-    <link href="http://starking666.github.io/2020/11/13/markdown-yu-fa-bi-ji/"/>
-    <id>http://starking666.github.io/2020/11/13/markdown-yu-fa-bi-ji/</id>
+    <link href="http://starking614.github.io/2020/11/13/markdown-yu-fa-bi-ji/"/>
+    <id>http://starking614.github.io/2020/11/13/markdown-yu-fa-bi-ji/</id>
     <published>2020-11-13T15:25:00.000Z</published>
     <updated>2020-11-14T01:26:29.421Z</updated>
     
@@ -34,10 +63,10 @@
     
     
     
-    <category term="Markdown" scheme="http://starking666.github.io/categories/Markdown/"/>
+    <category term="Markdown" scheme="http://starking614.github.io/categories/Markdown/"/>
     
     
-    <category term="Markdown" scheme="http://starking666.github.io/tags/Markdown/"/>
+    <category term="Markdown" scheme="http://starking614.github.io/tags/Markdown/"/>
     
   </entry>
   
